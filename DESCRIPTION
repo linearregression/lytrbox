@@ -1,0 +1,15 @@
+Package: lytrbox
+Title: R Utilities for Lytics Data Science
+Version: 0.1
+Authors@R: c(
+    person("Drew", "Lanenga", , "drew@lytics.io", c("aut", "cre")),
+    person("Allie", "Morgan", , "allison.morgan@lytics.io", c("aut")),
+    person("Tim", "Kaye", , "tim.kaye@lytics.io", c("aut")),
+    person("Lytics", role = "cph")
+    )
+Description: A collection of R utilities used by the data science team at
+    Lytics.
+Depends:
+    R (>= 3.2.2)
+License: Apache 2
+LazyData: true
