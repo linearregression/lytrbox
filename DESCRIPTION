@@ -11,5 +11,11 @@ Description: A collection of R utilities used by the data science team at
     Lytics.
 Depends:
     R (>= 3.2.2)
+Imports:
+    ggplot2,
+    RColorBrewer,
+    scales,
+    extrafont,
+    grid
 License: Apache 2
 LazyData: true
